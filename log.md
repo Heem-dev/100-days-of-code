@@ -12,3 +12,8 @@ Changed some styling.
 Added a delete all button.
 
 Link to the Web App: https://heem-dev.github.io/ToDo-List/
+
+# Day 3, 3/1/2024.
+
+More style changes.
+Changed the task text to an input so it can be modified.
