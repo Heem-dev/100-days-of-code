@@ -17,3 +17,7 @@ Link to the Web App: https://heem-dev.github.io/ToDo-List/
 
 More style changes.
 Changed the task text to an input so it can be modified.
+
+# Day 4, 4/1/2024.
+
+Fixed a bug where tasks are not saved properly. Now tasks are retrieved after a refresh.
