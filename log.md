@@ -21,3 +21,6 @@ Changed the task text to an input so it can be modified.
 # Day 4, 4/1/2024.
 
 Fixed a bug where tasks are not saved properly. Now tasks are retrieved after a refresh.
+# Day 5, 5/1/2024.
+
+Fixed a similar bug to yesterday's where changing a task after creation would not be saved after refreshing.
