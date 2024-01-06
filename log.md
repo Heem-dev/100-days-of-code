@@ -24,3 +24,7 @@ Fixed a bug where tasks are not saved properly. Now tasks are retrieved after a 
 # Day 5, 5/1/2024.
 
 Fixed a similar bug to yesterday's where changing a task after creation would not be saved after refreshing.
+# Day 6, 6/1/2024.
+
+Fixed bug where the last clicked button would be repeated.
+Changed style and svg icon.
