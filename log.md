@@ -29,6 +29,6 @@ Fixed a similar bug to yesterday's where changing a task after creation would no
 Fixed bug where the last clicked button would be repeated.
 Changed style and svg icon.
 
-# Day 7, 6/1/2024.
+# Day 7, 7/1/2024.
 
 Fixed a bug where trying to edit a task after refreshing doesn't work.
