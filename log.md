@@ -32,3 +32,9 @@ Changed style and svg icon.
 # Day 7, 7/1/2024.
 
 Fixed a bug where trying to edit a task after refreshing doesn't work.
+
+# Day 8, 7/1/2024.
+
+Fixed most bugs i know of. Now the site is fully functional even after refreshing. and tasks are saved with no issues.
+
+Will focus on adding features later.
