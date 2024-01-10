@@ -41,3 +41,7 @@ Will focus on adding features later.
 # Day 9, 9/1/2024.
 
 Added the ability to assign improtance to each task.
+# Day 10, 10/1/2024.
+
+Used radio buttons instead of select. 
+Made some style changes.
