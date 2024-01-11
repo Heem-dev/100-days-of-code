@@ -45,3 +45,6 @@ Added the ability to assign improtance to each task.
 
 Used radio buttons instead of select. 
 Made some style changes.
+# Day 11, 11/1/2024.
+
+Changed styling and made the website responsive for mobile.
