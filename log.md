@@ -48,3 +48,7 @@ Made some style changes.
 # Day 11, 11/1/2024.
 
 Changed styling and made the website responsive for mobile.
+# Day 12, 11/1/2024.
+
+Added the ability to change importance level by clicking on the color.
+Fixed a bug when changing a task after creation, where last button pressed would not be saved.
