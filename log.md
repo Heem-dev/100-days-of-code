@@ -48,7 +48,11 @@ Made some style changes.
 # Day 11, 11/1/2024.
 
 Changed styling and made the website responsive for mobile.
-# Day 12, 11/1/2024.
+# Day 12, 12/1/2024.
 
 Added the ability to change importance level by clicking on the color.
 Fixed a bug when changing a task after creation, where last button pressed would not be saved.
+# Day 13, 13/1/2024.
+
+Making a new calculator project.
+Initial commit. Only html and css for now.
