@@ -56,3 +56,7 @@ Fixed a bug when changing a task after creation, where last button pressed would
 
 Making a new calculator project.
 Initial commit. Only html and css for now.
+# Day 14, 14/1/2024.
+
+Added javascript functionality to the calculator. 
+(was done yesterday but forgot to push it to github)
