@@ -60,3 +60,8 @@ Initial commit. Only html and css for now.
 
 Added javascript functionality to the calculator. 
 (was done yesterday but forgot to push it to github)
+
+# Day 15, 15/1/2024.
+
+Added keyboard support.
+Made calculator responsive for mobile.
