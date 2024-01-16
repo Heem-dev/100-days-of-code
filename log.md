@@ -65,3 +65,7 @@ Added javascript functionality to the calculator.
 
 Added keyboard support.
 Made calculator responsive for mobile.
+
+# Day 16, 16/1/2024.
+
+Better UI and Color scheme for the calculator.
