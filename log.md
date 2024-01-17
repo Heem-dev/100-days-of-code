@@ -68,4 +68,8 @@ Made calculator responsive for mobile.
 
 # Day 16, 16/1/2024.
 
-Better UI and Color scheme for the calculator.
+Better UI and color scheme for the calculator.
+# Day 17, 17/1/2024.
+
+Making a new weather app project.
+Initial commit. Only html and some css for now.
