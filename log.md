@@ -73,3 +73,9 @@ Better UI and color scheme for the calculator.
 
 Making a new weather app project.
 Initial commit. Only html and some css for now.
+
+# Day 18, 18/1/2024.
+
+Further HTML modifications.
+Searchbar and icon styling.
+Overall prettier styling, UI and color scheme.
