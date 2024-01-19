@@ -79,3 +79,7 @@ Initial commit. Only html and some css for now.
 Further HTML modifications.
 Searchbar and icon styling.
 Overall prettier styling, UI and color scheme.
+
+# Day 19, 19/1/2024.
+
+Added javascript functionality and API calls to the weather app.
