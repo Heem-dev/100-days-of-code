@@ -83,3 +83,9 @@ Overall prettier styling, UI and color scheme.
 # Day 19, 19/1/2024.
 
 Added javascript functionality and API calls to the weather app.
+
+# Day 20, 20/1/2024.
+
+Fully functional weather app.
+API calls are working properly and the data is displayed correctly.
+Dynamic background based on the city requested.
