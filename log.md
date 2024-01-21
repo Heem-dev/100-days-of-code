@@ -89,3 +89,8 @@ Added javascript functionality and API calls to the weather app.
 Fully functional weather app.
 API calls are working properly and the data is displayed correctly.
 Dynamic background based on the city requested.
+
+# Day 21, 21/1/2024.
+
+Added low and high temperatures below the current temperature.
+Added titles to images so they can be read on hover.
