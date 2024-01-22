@@ -94,3 +94,7 @@ Dynamic background based on the city requested.
 
 Added low and high temperatures below the current temperature.
 Added titles to images so they can be read on hover.
+
+# Day 22, 22/1/2024.
+
+Styling changes to make the website responsive for mobile.
