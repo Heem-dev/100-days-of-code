@@ -98,3 +98,7 @@ Added titles to images so they can be read on hover.
 # Day 22, 22/1/2024.
 
 Styling changes to make the website responsive for mobile.
+
+# Day 23, 23/1/2024.
+
+Added a feature: when a visitor enters the website, the weather of their current location is displayed. Using the geolocation API to get their IP address and then using the IP address to get their location.
