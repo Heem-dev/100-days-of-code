@@ -102,3 +102,8 @@ Styling changes to make the website responsive for mobile.
 # Day 23, 23/1/2024.
 
 Added a feature: when a visitor enters the website, the weather of their current location is displayed. Using the geolocation API to get their IP address and then using the IP address to get their location.
+
+# Day 24, 24/1/2024.
+
+Added feels like temperature. 
+Styling changes.
