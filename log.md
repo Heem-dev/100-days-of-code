@@ -107,3 +107,8 @@ Added a feature: when a visitor enters the website, the weather of their current
 
 Added feels like temperature. 
 Styling changes.
+
+# Day 25, 25/1/2024.
+
+Making a Tic Tac Toe game using html, css and javascript.
+Initial commit. Only html and css for now.
