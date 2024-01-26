@@ -21,9 +21,11 @@ Changed the task text to an input so it can be modified.
 # Day 4, 4/1/2024.
 
 Fixed a bug where tasks are not saved properly. Now tasks are retrieved after a refresh.
+
 # Day 5, 5/1/2024.
 
 Fixed a similar bug to yesterday's where changing a task after creation would not be saved after refreshing.
+
 # Day 6, 6/1/2024.
 
 Fixed bug where the last clicked button would be repeated.
@@ -38,27 +40,33 @@ Fixed a bug where trying to edit a task after refreshing doesn't work.
 Fixed most bugs i know of. Now the site is fully functional even after refreshing. and tasks are saved with no issues.
 
 Will focus on adding features later.
+
 # Day 9, 9/1/2024.
 
 Added the ability to assign improtance to each task.
+
 # Day 10, 10/1/2024.
 
-Used radio buttons instead of select. 
+Used radio buttons instead of select.
 Made some style changes.
+
 # Day 11, 11/1/2024.
 
 Changed styling and made the website responsive for mobile.
+
 # Day 12, 12/1/2024.
 
 Added the ability to change importance level by clicking on the color.
 Fixed a bug when changing a task after creation, where last button pressed would not be saved.
+
 # Day 13, 13/1/2024.
 
 Making a new calculator project.
 Initial commit. Only html and css for now.
+
 # Day 14, 14/1/2024.
 
-Added javascript functionality to the calculator. 
+Added javascript functionality to the calculator.
 (was done yesterday but forgot to push it to github)
 
 # Day 15, 15/1/2024.
@@ -69,6 +77,7 @@ Made calculator responsive for mobile.
 # Day 16, 16/1/2024.
 
 Better UI and color scheme for the calculator.
+
 # Day 17, 17/1/2024.
 
 Making a new weather app project.
@@ -105,10 +114,16 @@ Added a feature: when a visitor enters the website, the weather of their current
 
 # Day 24, 24/1/2024.
 
-Added feels like temperature. 
+Added feels like temperature.
 Styling changes.
 
 # Day 25, 25/1/2024.
 
 Making a Tic Tac Toe game using html, css and javascript.
 Initial commit. Only html and css for now.
+
+# Day 26, 26/1/2024.
+
+Stlying changes.
+Added javascript functionality to the Tic Tac Toe game.
+Only game win/lose/draw logic is left.
