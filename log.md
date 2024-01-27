@@ -126,4 +126,10 @@ Initial commit. Only html and css for now.
 
 Stlying changes.
 Added javascript functionality to the Tic Tac Toe game.
+Added reset button.
 Only game win/lose/draw logic is left.
+
+# Day 27, 27/1/2024.
+
+Added game win/lose/draw logic.
+Game is fully functional.
