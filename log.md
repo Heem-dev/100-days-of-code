@@ -133,3 +133,8 @@ Only game win/lose/draw logic is left.
 
 Added game win/lose/draw logic.
 Game is fully functional.
+
+# Day 28, 28/1/2024.
+
+Added a feature to the weather app. Allowing the user to change the temperature unit between Celsius and Fahrenheit.
+It is saved in the local storage so it doesn't reset after refreshing.
