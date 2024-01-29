@@ -138,3 +138,8 @@ Game is fully functional.
 
 Added a feature to the weather app. Allowing the user to change the temperature unit between Celsius and Fahrenheit.
 It is saved in the local storage so it doesn't reset after refreshing.
+
+# Day 29, 29/1/2024.
+
+Making my portfolio website.
+Initial commit. Only html and some css for now.
