@@ -143,3 +143,7 @@ It is saved in the local storage so it doesn't reset after refreshing.
 
 Making my portfolio website.
 Initial commit. Only html and some css for now.
+
+# Day 30, 30/1/2024.
+
+Weather app styling changes to make it responsive.
