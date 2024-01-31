@@ -147,3 +147,12 @@ Initial commit. Only html and some css for now.
 # Day 30, 30/1/2024.
 
 Weather app styling changes to make it responsive.
+
+# Day 31, 31/1/2024.
+
+After following this great Flexbox tutorial: https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ , I applied it to the weather app to make it even more responsive and lower the amount of media queries needed.
+
+I also made a landing page project as a part of the Odin Project's curriculum. Only done with the HTML for now.
+
+Link to the Web App: https://heem-dev.github.io/OdinLandingPage/
+Link to the Odin Project's Landing Page project: https://www.theodinproject.com/lessons/foundations-landing-page
