@@ -154,5 +154,9 @@ After following this great Flexbox tutorial: https://www.joshwcomeau.com/css/int
 
 I also made a landing page project as a part of the Odin Project's curriculum. Only done with the HTML for now.
 
-Link to the Web App: https://heem-dev.github.io/OdinLandingPage/
+Link to the Landing Page: https://heem-dev.github.io/OdinLandingPage/
 Link to the Odin Project's Landing Page project: https://www.theodinproject.com/lessons/foundations-landing-page
+
+# Day 32, 1/2/2024.
+
+Done with the Landing Page project. Added CSS and even made it responsive for mobile.
