@@ -160,3 +160,8 @@ Link to the Odin Project's Landing Page project: https://www.theodinproject.com/
 # Day 32, 1/2/2024.
 
 Done with the Landing Page project. Added CSS and even made it responsive for mobile.
+
+# Day 33, 2/2/2024.
+
+Weather app styling changes.
+Working on adding a 5 day forecast.
