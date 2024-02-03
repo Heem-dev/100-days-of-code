@@ -165,3 +165,8 @@ Done with the Landing Page project. Added CSS and even made it responsive for mo
 
 Weather app styling changes.
 Working on adding a 5 day forecast.
+
+# Day 34, 3/2/2024.
+
+Added a 5 day forecast to the weather app that shows both the high and low temperatures for each day as well as the icon for the weather condition.
+Tomorrow I will improve the styling of the forecast and maybe add more weather details.
