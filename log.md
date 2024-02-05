@@ -170,3 +170,8 @@ Working on adding a 5 day forecast.
 
 Added a 5 day forecast to the weather app that shows both the high and low temperatures for each day as well as the icon for the weather condition.
 Tomorrow I will improve the styling of the forecast and maybe add more weather details.
+
+# Day 35, 4/2/2024.
+
+Styling changes to the weather app and the forecast to make it more mobile friendly.
+Added more weather details to the 5 day forecast and the current weather.
