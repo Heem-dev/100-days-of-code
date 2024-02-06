@@ -175,3 +175,11 @@ Tomorrow I will improve the styling of the forecast and maybe add more weather d
 
 Styling changes to the weather app and the forecast to make it more mobile friendly.
 Added more weather details to the 5 day forecast and the current weather.
+
+# Day 36, 5/2/2024.
+
+Refactored the script.js to use functions whenever possible and make the code more readable and organized.
+
+# Day 37, 6/2/2024.
+
+Refactored and cleared calculator script.js and used functions to make it readable and organized.
